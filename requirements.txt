@@ -9,7 +9,7 @@ numpy
 omegaconf
 pandas
 Pillow
-pytorch-lightning
+pytorch-lightning==1.7.7
 requests
 taming-transformers-rom1504
 tensorboard
