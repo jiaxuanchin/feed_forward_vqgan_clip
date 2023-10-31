@@ -1,6 +1,6 @@
 clip-anytorch
 clize
-einops==0.3.0
+einops
 fsspec
 ftfy
 imageio
